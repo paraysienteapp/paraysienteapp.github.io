@@ -1,0 +1,1 @@
+Repositorio para la web de Para y Siente, app de diario emocional para Android (https://play.google.com/store/apps/details?id=es.paraysiente) e iOS (https://apps.apple.com/us/app/para-y-siente/id6474931925)
